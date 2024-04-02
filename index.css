@@ -306,6 +306,13 @@
    nav .hamb{
     display: none;
    }
+   .gaganChar{
+    height: 195px;
+   }
+   .Imgradius{
+    height: 200px;
+    border-radius: 5px;
+   }
   @media only screen and (max-width: 480px) {
     /* For mobile phones: */
     /* [class*="col-"] {
